@@ -1,6 +1,4 @@
-## **README.md Descontraído para o Seu Projeto**
-
-### **Hunters Filmes: Seu Cinema Pessoal, Sempre à Mão!** 
+## Hunters Filmes: Seu Cinema Pessoal, Sempre à Mão! - Imersão Dev com Google Gemini 
 
 **O que é isso?**
 
